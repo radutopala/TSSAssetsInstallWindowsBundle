@@ -32,7 +32,7 @@ Installation instructions:
 
 - You can now create assets symlinks in Windows >= Vista:
 
-    ```app/console assets:install:windows```
+    ```app/console assets:install:windows web```
 
 Enjoy :)
 
