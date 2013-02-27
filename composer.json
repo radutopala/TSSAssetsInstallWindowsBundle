@@ -1,0 +1,22 @@
+{
+    "name": "tss/assets-install-windows-bundle",
+    "description": "Creates similar assets:install symlinks in Windows with mklink",
+    "keywords": ["windows","symlinks","mklink","assets"],
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Radu Topala",
+            "email": "radu.topala@trisoft.ro"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-0": { 
+            "TSS\\AssetsInstallWindowsBundle": ""
+         }
+    },
+    "target-dir": "TSS/AssetsInstallWindowsBundle"
+}
