@@ -35,3 +35,5 @@ Installation instructions:
     ```app/console assets:install:windows```
 
 Enjoy :)
+
+PS: Thanks @Dilibau for the tip
