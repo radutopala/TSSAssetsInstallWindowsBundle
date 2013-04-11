@@ -32,7 +32,7 @@ Installation instructions:
 
 - You can now create assets symlinks in Windows >= Vista:
 
-    ```app/console assets:install:windows web```
+    ```app/console tss:assets:install web```
 
 Enjoy :)
 

@@ -17,7 +17,7 @@ class AssetsInstallWindowsCommand extends ContainerAwareCommand
     public function configure()
     {
         $this
-            ->setName('assets:install:windows')
+            ->setName('tss:assets:install')
             ->setDefinition(array(
                 new InputArgument('target', InputArgument::OPTIONAL, 'The target directory', 'web'),
             ))
